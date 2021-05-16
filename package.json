@@ -1,0 +1,15 @@
+{
+  "name": "resume_builder",
+  "version": "1.0.0",
+  "description": "This is a resume builder app developed by CODE-club_of_developers.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "@CODE-Club_Of_Developers",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
